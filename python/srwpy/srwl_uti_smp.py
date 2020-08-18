@@ -12,8 +12,8 @@ import sys
 import time
 from array import array
 
-import srwlib
-import uti_io
+from . import srwlib
+from . import uti_io
 
 
 # ********************** The class for Samples:
